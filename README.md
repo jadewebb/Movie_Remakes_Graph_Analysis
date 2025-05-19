@@ -1,4 +1,4 @@
-# Movie_Remakes_Graph_Analysis
+# Movie Remakes Graph Analysis
 
 Analyze a movie remakes data using graph creation, graph visualization, node embeddings, and link prediction using Logistic Regression
 
