@@ -30,7 +30,7 @@ Data was loaded and used to create multiple graphs for visualization and propert
 
       * Centralities: degree, closeness, betweenness, eigenvector, Katz
 
-Node embeddings of the projected graph were created using Node2Vec (Word2Vec with biased random walks) and visualized using TSNE dimensionality reduction
+Node embeddings of the projected graph were created using Node2Vec (Word2Vec with biased random walks) and visualized using t-SNE dimensionality reduction
 
 Logistic Regression was trained to perform link prediction on the projected graph, which were visualized using PCA
 
