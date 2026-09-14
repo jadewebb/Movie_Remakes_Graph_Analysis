@@ -2,7 +2,7 @@
 
 Analyze a movie remakes data using graph creation, graph visualization, node embeddings, and link prediction using Logistic Regression
 
-Dataset: Movie Remakes Dataset crawled from Wikipedia, containing director and movie pairs (original, remake) https://mozart.diei.unipg.it/gdcontest/contest2021/index.php?id=creative-topics
+Dataset: Movie Remakes Dataset crawled from Wikipedia, containing director and movie pairs (original, remake) [![Dataset](https://img.shields.io/badge/Dataset-8A2BE2)](https://mozart.diei.unipg.it/gdcontest/contest2021/index.php?id=creative-topics)
 
 Data was loaded and used to create multiple graphs for visualization and property analysis
 
